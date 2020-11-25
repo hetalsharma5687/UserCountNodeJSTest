@@ -18,7 +18,11 @@ $ npm run migrate:up
 
 ### How to access
 To get all data => http://localhost:3000/userView
+
 To get daily data => http://localhost:3000/userView?type=daily
+
 To get weekly data => http://localhost:3000/userView?type=weekly
+
 To get monthly data => http://localhost:3000/userView?type=monthly
+
 To get custom data => http://localhost:3000/userView?type=custom&from=2020-11-01&to=2020-11-23
